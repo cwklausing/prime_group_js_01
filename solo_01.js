@@ -63,8 +63,5 @@ var jemEval = new Evaluation(Jem1);
 var booEval = new Evaluation(Boo1);
 var scoutEval = new Evaluation(Scout1);
 
-console.log(atticusEval);
-console.log(jemEval);
-console.log(booEval);
-console.log(scoutEval);
+console.log(atticusEval, jemEval, booEval, scoutEval);
 
